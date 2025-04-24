@@ -1,0 +1,20 @@
+.vfrc-system-response .vfrc-message {
+  background-color: #5c3b25 !important;
+  color: #ffffff !important;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.vfrc-system-response .vfrc-button {
+  background-color: #5c3b25 !important;
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 6px;
+  padding: 8px 16px;
+  margin: 4px 0;
+  cursor: pointer;
+}
+
+.vfrc-system-response .vfrc-button:hover {
+  background-color: #4a2f1e !important;
+}
